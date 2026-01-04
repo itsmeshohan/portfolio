@@ -13,6 +13,7 @@ I specialize in transforming raw data into high-quality training sets. With over
 ▶️ Tools: Expert in industry-standard labeling platforms (CVAT, LabelImg, Label Studio, etc.).
 
 📈 Professional Experience
+
 ▶️ 7+ Years of helping AI teams build robust datasets.
 
 ▶️ Proven track record of maintaining 99%+ accuracy in large-scale projects.
