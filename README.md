@@ -1,22 +1,51 @@
-Hi there, I'm Md. Mehedi Hasan 👋
-Data Annotation Expert | 7+ Years of Experience in AI/ML Data Readiness
+# 👋 Hi there, I'm Md. Mehedi Hasan
 
-I specialize in transforming raw data into high-quality training sets. With over 7 years of experience, I provide high-precision data labeling services that empower machine learning models to reach their full potential.
+**Data Annotation Expert | 7+ Years of Experience in AI/ML Data Readiness**
 
-🛠 Skills & Expertise
------------------------------------------------------------
-▶️ Data Annotation: Image, Video, Text, and Audio labeling.
+I specialize in transforming raw data into high-quality training datasets. With over **7 years of experience**, I deliver precise and reliable data labeling services that help machine learning models achieve stronger performance.
 
-▶️ Annotation Types: Bounding Boxes, Polygons, Key-point labeling, Semantic Segmentation, and Sentiment Analysis.
+---
 
-▶️ Quality Control: Rigorous data validation and accuracy checks.
+## 🛠 Skills & Expertise
 
-▶️ Tools: Expert in industry-standard labeling platforms (CVAT, LabelImg, Label Studio, etc.).
+### 🔹 Data Annotation
+- Image, Video, Text, and Audio labeling
 
-📈 Professional Experience
------------------------------------------------------------
-▶️ 7+ Years of helping AI teams build robust datasets.
+### 🔹 Annotation Types
+- Bounding Boxes  
+- Polygons  
+- Key-point Labeling  
+- Semantic Segmentation  
+- Sentiment Analysis  
 
-▶️ Proven track record of maintaining 99%+ accuracy in large-scale projects.
+### 🔹 Quality Control
+- Rigorous validation process  
+- High attention to detail  
+- Consistent accuracy assurance  
 
-▶️ Expertise in managing complex annotation workflows.
+### 🔹 Tools & Platforms
+Expert in industry-standard tools:
+- CVAT  
+- LabelImg  
+- Label Studio  
+- Supervisely  
+- Roboflow  
+- Other professional annotation platforms  
+
+---
+
+## 📈 Professional Experience
+- 7+ years of experience supporting AI teams worldwide  
+- Maintained **99%+ accuracy** across large-scale annotation projects  
+- Strong expertise in managing complex annotation workflows  
+- Delivered high-quality datasets for computer vision and NLP projects  
+
+---
+
+## 🌐 Let’s Connect
+- GitHub: https://github.com/itsmeshohan  
+- Portfolio: https://itsmeshohan.github.io/showcase/  
+
+---
+
+⭐ *If you find my work valuable, feel free to star this repository!*
