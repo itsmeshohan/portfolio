@@ -44,7 +44,7 @@ Expert in industry-standard tools:
 
 ## 🌐 Let’s Connect
 - GitHub: https://github.com/itsmeshohan  
-- Portfolio: https://itsmeshohan.github.io/showcase/  
+- Portfolio: https://itsmeshohan.github.io/portfolio/  
 
 ---
 
